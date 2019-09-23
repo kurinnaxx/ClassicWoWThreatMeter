@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title-enUS: Oblivion Threat Meter
+## Notes-enUS: Oblivion Threat Meter addon maintained by the Kurinnaxx Horde guild, Oblivion.
+## Version: 0.0.1
+## DefaultState: enabled
+## SavedVariablesPerCharacter: my_test_saved_var
+
+OblivionThreatMeter.lua
